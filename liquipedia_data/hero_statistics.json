@@ -1,0 +1,5992 @@
+[
+  {
+    "hero": "Edith",
+    "total_games": 98,
+    "wins": 47,
+    "losses": 51,
+    "win_rate": 0.4796,
+    "bans": 43,
+    "picks_bans": 141,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Faramis",
+    "total_games": 50,
+    "wins": 33,
+    "losses": 17,
+    "win_rate": 0.66,
+    "bans": 26,
+    "picks_bans": 76,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Claude",
+    "total_games": 39,
+    "wins": 17,
+    "losses": 22,
+    "win_rate": 0.4359,
+    "bans": 16,
+    "picks_bans": 55,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Tigreal",
+    "total_games": 35,
+    "wins": 18,
+    "losses": 17,
+    "win_rate": 0.5143,
+    "bans": 18,
+    "picks_bans": 53,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Jawhead",
+    "total_games": 31,
+    "wins": 12,
+    "losses": 19,
+    "win_rate": 0.3871,
+    "bans": 12,
+    "picks_bans": 43,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Lunox",
+    "total_games": 23,
+    "wins": 12,
+    "losses": 11,
+    "win_rate": 0.5217,
+    "bans": 0,
+    "picks_bans": 23,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Arlott",
+    "total_games": 23,
+    "wins": 12,
+    "losses": 11,
+    "win_rate": 0.5217,
+    "bans": 0,
+    "picks_bans": 23,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Nolan",
+    "total_games": 23,
+    "wins": 11,
+    "losses": 12,
+    "win_rate": 0.4783,
+    "bans": 0,
+    "picks_bans": 23,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Phoveus",
+    "total_games": 22,
+    "wins": 11,
+    "losses": 11,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 22,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Luo Yi",
+    "total_games": 22,
+    "wins": 14,
+    "losses": 8,
+    "win_rate": 0.6364,
+    "bans": 8,
+    "picks_bans": 30,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Fanny",
+    "total_games": 21,
+    "wins": 6,
+    "losses": 15,
+    "win_rate": 0.2857,
+    "bans": 6,
+    "picks_bans": 27,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Ruby",
+    "total_games": 21,
+    "wins": 9,
+    "losses": 12,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 21,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Terizla",
+    "total_games": 20,
+    "wins": 13,
+    "losses": 7,
+    "win_rate": 0.65,
+    "bans": 0,
+    "picks_bans": 20,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Grock",
+    "total_games": 20,
+    "wins": 9,
+    "losses": 11,
+    "win_rate": 0.45,
+    "bans": 9,
+    "picks_bans": 29,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Zhask",
+    "total_games": 20,
+    "wins": 8,
+    "losses": 12,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 20,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Vexana",
+    "total_games": 18,
+    "wins": 7,
+    "losses": 11,
+    "win_rate": 0.3889,
+    "bans": 0,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Roger",
+    "total_games": 18,
+    "wins": 8,
+    "losses": 10,
+    "win_rate": 0.44439999999999996,
+    "bans": 0,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Hylos",
+    "total_games": 17,
+    "wins": 10,
+    "losses": 7,
+    "win_rate": 0.5882000000000001,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Barats",
+    "total_games": 17,
+    "wins": 9,
+    "losses": 8,
+    "win_rate": 0.5294,
+    "bans": 7,
+    "picks_bans": 24,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Valentina",
+    "total_games": 17,
+    "wins": 5,
+    "losses": 12,
+    "win_rate": 0.29410000000000003,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Alpha",
+    "total_games": 17,
+    "wins": 6,
+    "losses": 11,
+    "win_rate": 0.3529,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Mathilda",
+    "total_games": 17,
+    "wins": 13,
+    "losses": 4,
+    "win_rate": 0.7646999999999999,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Rebellion Esports",
+    "total_games": 17,
+    "wins": 5,
+    "losses": 12,
+    "win_rate": 0.29410000000000003,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Khufra",
+    "total_games": 16,
+    "wins": 5,
+    "losses": 11,
+    "win_rate": 0.3125,
+    "bans": 6,
+    "picks_bans": 22,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Wanwan",
+    "total_games": 16,
+    "wins": 11,
+    "losses": 5,
+    "win_rate": 0.6875,
+    "bans": 9,
+    "picks_bans": 25,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Moskov",
+    "total_games": 16,
+    "wins": 7,
+    "losses": 9,
+    "win_rate": 0.4375,
+    "bans": 0,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Harith",
+    "total_games": 16,
+    "wins": 8,
+    "losses": 8,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Julian",
+    "total_games": 15,
+    "wins": 9,
+    "losses": 6,
+    "win_rate": 0.6,
+    "bans": 0,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Yve",
+    "total_games": 15,
+    "wins": 5,
+    "losses": 10,
+    "win_rate": 0.3333,
+    "bans": 0,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Akai",
+    "total_games": 15,
+    "wins": 5,
+    "losses": 10,
+    "win_rate": 0.3333,
+    "bans": 5,
+    "picks_bans": 20,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Franco",
+    "total_games": 15,
+    "wins": 8,
+    "losses": 7,
+    "win_rate": 0.5333,
+    "bans": 6,
+    "picks_bans": 21,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Joy",
+    "total_games": 14,
+    "wins": 3,
+    "losses": 11,
+    "win_rate": 0.2143,
+    "bans": 11,
+    "picks_bans": 25,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Natan",
+    "total_games": 14,
+    "wins": 6,
+    "losses": 8,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Geek Fam ID",
+    "total_games": 14,
+    "wins": 7,
+    "losses": 7,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Zhuxin",
+    "total_games": 14,
+    "wins": 10,
+    "losses": 4,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "X.Borg",
+    "total_games": 13,
+    "wins": 8,
+    "losses": 5,
+    "win_rate": 0.6154,
+    "bans": 7,
+    "picks_bans": 20,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Hayabusa",
+    "total_games": 13,
+    "wins": 4,
+    "losses": 9,
+    "win_rate": 0.3077,
+    "bans": 0,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Gatotkaca",
+    "total_games": 12,
+    "wins": 7,
+    "losses": 5,
+    "win_rate": 0.5832999999999999,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Beatrix",
+    "total_games": 11,
+    "wins": 5,
+    "losses": 6,
+    "win_rate": 0.4545,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Alice",
+    "total_games": 11,
+    "wins": 4,
+    "losses": 7,
+    "win_rate": 0.3636,
+    "bans": 7,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Minotaur",
+    "total_games": 11,
+    "wins": 5,
+    "losses": 6,
+    "win_rate": 0.4545,
+    "bans": 4,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Ling",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Khaleed",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Angela",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Lancelot",
+    "total_games": 11,
+    "wins": 7,
+    "losses": 4,
+    "win_rate": 0.6364,
+    "bans": 6,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Karrie",
+    "total_games": 10,
+    "wins": 3,
+    "losses": 7,
+    "win_rate": 0.3,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Dewa United Esports",
+    "total_games": 10,
+    "wins": 4,
+    "losses": 6,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Bigetron by Vitality",
+    "total_games": 10,
+    "wins": 6,
+    "losses": 4,
+    "win_rate": 0.6,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Lolita",
+    "total_games": 10,
+    "wins": 3,
+    "losses": 7,
+    "win_rate": 0.3,
+    "bans": 8,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Benedetta",
+    "total_games": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_rate": 0.44439999999999996,
+    "bans": 4,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Clint",
+    "total_games": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_rate": 0.44439999999999996,
+    "bans": 4,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Lylia",
+    "total_games": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_rate": 0.44439999999999996,
+    "bans": 3,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Chou",
+    "total_games": 9,
+    "wins": 7,
+    "losses": 2,
+    "win_rate": 0.7778,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Thamuz",
+    "total_games": 8,
+    "wins": 5,
+    "losses": 3,
+    "win_rate": 0.625,
+    "bans": 5,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Gloo",
+    "total_games": 7,
+    "wins": 2,
+    "losses": 5,
+    "win_rate": 0.2857,
+    "bans": 3,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Suyou",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Bane",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Carmilla",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 4,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Irithel",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 2,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Chip",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 2,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Hilda",
+    "total_games": 6,
+    "wins": 5,
+    "losses": 1,
+    "win_rate": 0.8332999999999999,
+    "bans": 4,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Kaja",
+    "total_games": 6,
+    "wins": 4,
+    "losses": 2,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Brody",
+    "total_games": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_rate": 0.4,
+    "bans": 2,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Yu Zhong",
+    "total_games": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_rate": 0.4,
+    "bans": 3,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Ixia",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 1,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Rafaela",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 3,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Bruno",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Hanabi",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Novaria",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Melissa",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Helcurt",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Guinevere",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Fredrinn",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Paquito",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Atlas",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Cecilion",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Natalia",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Pharsa",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Uranus",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Masha",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Yin",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Cici",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Kadita",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Martis",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Minsitthar",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Nana",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Saber",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14"
+  },
+  {
+    "hero": "Edith",
+    "total_games": 101,
+    "wins": 60,
+    "losses": 41,
+    "win_rate": 0.5941,
+    "bans": 49,
+    "picks_bans": 150,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Mathilda",
+    "total_games": 32,
+    "wins": 18,
+    "losses": 14,
+    "win_rate": 0.5625,
+    "bans": 16,
+    "picks_bans": 48,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Zhuxin",
+    "total_games": 30,
+    "wins": 14,
+    "losses": 16,
+    "win_rate": 0.4667,
+    "bans": 7,
+    "picks_bans": 37,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Suyou",
+    "total_games": 29,
+    "wins": 18,
+    "losses": 11,
+    "win_rate": 0.6207,
+    "bans": 11,
+    "picks_bans": 40,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Jawhead",
+    "total_games": 28,
+    "wins": 12,
+    "losses": 16,
+    "win_rate": 0.4286,
+    "bans": 13,
+    "picks_bans": 41,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Grock",
+    "total_games": 28,
+    "wins": 13,
+    "losses": 15,
+    "win_rate": 0.4643,
+    "bans": 9,
+    "picks_bans": 37,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Terizla",
+    "total_games": 26,
+    "wins": 19,
+    "losses": 7,
+    "win_rate": 0.7308,
+    "bans": 0,
+    "picks_bans": 26,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Hayabusa",
+    "total_games": 24,
+    "wins": 11,
+    "losses": 13,
+    "win_rate": 0.4583,
+    "bans": 0,
+    "picks_bans": 24,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Aurora Gaming PH",
+    "total_games": 21,
+    "wins": 15,
+    "losses": 6,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 21,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Chou",
+    "total_games": 20,
+    "wins": 10,
+    "losses": 10,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 20,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Julian",
+    "total_games": 20,
+    "wins": 10,
+    "losses": 10,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 20,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Tigreal",
+    "total_games": 20,
+    "wins": 9,
+    "losses": 11,
+    "win_rate": 0.45,
+    "bans": 0,
+    "picks_bans": 20,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Yve",
+    "total_games": 20,
+    "wins": 8,
+    "losses": 12,
+    "win_rate": 0.4,
+    "bans": 16,
+    "picks_bans": 36,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Harith",
+    "total_games": 20,
+    "wins": 13,
+    "losses": 7,
+    "win_rate": 0.65,
+    "bans": 0,
+    "picks_bans": 20,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Natan",
+    "total_games": 19,
+    "wins": 9,
+    "losses": 10,
+    "win_rate": 0.47369999999999995,
+    "bans": 10,
+    "picks_bans": 29,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Vexana",
+    "total_games": 19,
+    "wins": 10,
+    "losses": 9,
+    "win_rate": 0.5263,
+    "bans": 0,
+    "picks_bans": 19,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Moskov",
+    "total_games": 19,
+    "wins": 12,
+    "losses": 7,
+    "win_rate": 0.6315999999999999,
+    "bans": 0,
+    "picks_bans": 19,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Nolan",
+    "total_games": 19,
+    "wins": 13,
+    "losses": 6,
+    "win_rate": 0.6842,
+    "bans": 0,
+    "picks_bans": 19,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Hylos",
+    "total_games": 18,
+    "wins": 8,
+    "losses": 10,
+    "win_rate": 0.44439999999999996,
+    "bans": 0,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Valentina",
+    "total_games": 17,
+    "wins": 9,
+    "losses": 8,
+    "win_rate": 0.5294,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "ONIC Philippines",
+    "total_games": 17,
+    "wins": 14,
+    "losses": 3,
+    "win_rate": 0.8234999999999999,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Roger",
+    "total_games": 17,
+    "wins": 8,
+    "losses": 9,
+    "win_rate": 0.4706,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Fanny",
+    "total_games": 17,
+    "wins": 9,
+    "losses": 8,
+    "win_rate": 0.5294,
+    "bans": 6,
+    "picks_bans": 23,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Ling",
+    "total_games": 16,
+    "wins": 8,
+    "losses": 8,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Omega Esports",
+    "total_games": 15,
+    "wins": 9,
+    "losses": 6,
+    "win_rate": 0.6,
+    "bans": 0,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Arlott",
+    "total_games": 15,
+    "wins": 3,
+    "losses": 12,
+    "win_rate": 0.2,
+    "bans": 0,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Lolita",
+    "total_games": 15,
+    "wins": 7,
+    "losses": 8,
+    "win_rate": 0.4667,
+    "bans": 10,
+    "picks_bans": 25,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Claude",
+    "total_games": 14,
+    "wins": 8,
+    "losses": 6,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Phoveus",
+    "total_games": 14,
+    "wins": 9,
+    "losses": 5,
+    "win_rate": 0.6429,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "AP.Bren",
+    "total_games": 14,
+    "wins": 9,
+    "losses": 5,
+    "win_rate": 0.6429,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Lylia",
+    "total_games": 13,
+    "wins": 10,
+    "losses": 3,
+    "win_rate": 0.7692,
+    "bans": 4,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "RSG Philippines",
+    "total_games": 13,
+    "wins": 6,
+    "losses": 7,
+    "win_rate": 0.46149999999999997,
+    "bans": 0,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Lunox",
+    "total_games": 12,
+    "wins": 6,
+    "losses": 6,
+    "win_rate": 0.5,
+    "bans": 4,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Khaleed",
+    "total_games": 12,
+    "wins": 6,
+    "losses": 6,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Minotaur",
+    "total_games": 12,
+    "wins": 9,
+    "losses": 3,
+    "win_rate": 0.75,
+    "bans": 5,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Team Liquid PH",
+    "total_games": 12,
+    "wins": 8,
+    "losses": 4,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Faramis",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Gatotkaca",
+    "total_games": 11,
+    "wins": 3,
+    "losses": 8,
+    "win_rate": 0.2727,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Bane",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 10,
+    "picks_bans": 21,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Ruby",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "X.Borg",
+    "total_games": 10,
+    "wins": 5,
+    "losses": 5,
+    "win_rate": 0.5,
+    "bans": 4,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Bruno",
+    "total_games": 10,
+    "wins": 4,
+    "losses": 6,
+    "win_rate": 0.4,
+    "bans": 2,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Zhask",
+    "total_games": 10,
+    "wins": 5,
+    "losses": 5,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Clint",
+    "total_games": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_rate": 0.44439999999999996,
+    "bans": 5,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Alice",
+    "total_games": 8,
+    "wins": 4,
+    "losses": 4,
+    "win_rate": 0.5,
+    "bans": 3,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Cici",
+    "total_games": 8,
+    "wins": 6,
+    "losses": 2,
+    "win_rate": 0.75,
+    "bans": 4,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "TNC Pro Team",
+    "total_games": 8,
+    "wins": 1,
+    "losses": 7,
+    "win_rate": 0.125,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Angela",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 4,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Kaja",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 1,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Wanwan",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 1,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Karrie",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Blacklist International",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Alpha",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Beatrix",
+    "total_games": 6,
+    "wins": 5,
+    "losses": 1,
+    "win_rate": 0.8332999999999999,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Gloo",
+    "total_games": 6,
+    "wins": 3,
+    "losses": 3,
+    "win_rate": 0.5,
+    "bans": 4,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Khufra",
+    "total_games": 6,
+    "wins": 3,
+    "losses": 3,
+    "win_rate": 0.5,
+    "bans": 3,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Luo Yi",
+    "total_games": 6,
+    "wins": 3,
+    "losses": 3,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Rafaela",
+    "total_games": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Carmilla",
+    "total_games": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_rate": 0.8,
+    "bans": 2,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Benedetta",
+    "total_games": 4,
+    "wins": 1,
+    "losses": 3,
+    "win_rate": 0.25,
+    "bans": 2,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Thamuz",
+    "total_games": 4,
+    "wins": 1,
+    "losses": 3,
+    "win_rate": 0.25,
+    "bans": 2,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Joy",
+    "total_games": 4,
+    "wins": 1,
+    "losses": 3,
+    "win_rate": 0.25,
+    "bans": 2,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Barats",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 3,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Melissa",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Belerick",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 1,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Lancelot",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 3,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Ixia",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Akai",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Cecilion",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Franco",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Helcurt",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Yu Zhong",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Kagura",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Martis",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Minsitthar",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Masha",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Miya",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Fredrinn",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Novaria",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Guinevere",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Hanabi",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Diggie",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Baxia",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Nana",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Hanzo",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Paquito",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Brody",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Chip",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14"
+  },
+  {
+    "hero": "Chou",
+    "total_games": 57,
+    "wins": 31,
+    "losses": 26,
+    "win_rate": 0.5439,
+    "bans": 30,
+    "picks_bans": 87,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Claude",
+    "total_games": 29,
+    "wins": 13,
+    "losses": 16,
+    "win_rate": 0.4483,
+    "bans": 11,
+    "picks_bans": 40,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Natan",
+    "total_games": 27,
+    "wins": 18,
+    "losses": 9,
+    "win_rate": 0.6667000000000001,
+    "bans": 15,
+    "picks_bans": 42,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Terizla",
+    "total_games": 24,
+    "wins": 8,
+    "losses": 16,
+    "win_rate": 0.3333,
+    "bans": 10,
+    "picks_bans": 34,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Lunox",
+    "total_games": 19,
+    "wins": 12,
+    "losses": 7,
+    "win_rate": 0.6315999999999999,
+    "bans": 11,
+    "picks_bans": 30,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Cici",
+    "total_games": 18,
+    "wins": 7,
+    "losses": 11,
+    "win_rate": 0.3889,
+    "bans": 11,
+    "picks_bans": 29,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Beatrix",
+    "total_games": 17,
+    "wins": 11,
+    "losses": 6,
+    "win_rate": 0.6470999999999999,
+    "bans": 10,
+    "picks_bans": 27,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Gatotkaca",
+    "total_games": 16,
+    "wins": 6,
+    "losses": 10,
+    "win_rate": 0.375,
+    "bans": 0,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Jawhead",
+    "total_games": 15,
+    "wins": 7,
+    "losses": 8,
+    "win_rate": 0.4667,
+    "bans": 10,
+    "picks_bans": 25,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Nolan",
+    "total_games": 15,
+    "wins": 8,
+    "losses": 7,
+    "win_rate": 0.5333,
+    "bans": 0,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Hylos",
+    "total_games": 14,
+    "wins": 10,
+    "losses": 4,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Vexana",
+    "total_games": 14,
+    "wins": 7,
+    "losses": 7,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Phoveus",
+    "total_games": 14,
+    "wins": 7,
+    "losses": 7,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Hayabusa",
+    "total_games": 13,
+    "wins": 7,
+    "losses": 6,
+    "win_rate": 0.5385,
+    "bans": 0,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Suyou",
+    "total_games": 13,
+    "wins": 4,
+    "losses": 9,
+    "win_rate": 0.3077,
+    "bans": 0,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Fanny",
+    "total_games": 13,
+    "wins": 8,
+    "losses": 5,
+    "win_rate": 0.6154,
+    "bans": 5,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Harith",
+    "total_games": 13,
+    "wins": 6,
+    "losses": 7,
+    "win_rate": 0.46149999999999997,
+    "bans": 0,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Arlott",
+    "total_games": 12,
+    "wins": 5,
+    "losses": 7,
+    "win_rate": 0.4167,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Tigreal",
+    "total_games": 12,
+    "wins": 7,
+    "losses": 5,
+    "win_rate": 0.5832999999999999,
+    "bans": 6,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Faramis",
+    "total_games": 12,
+    "wins": 6,
+    "losses": 6,
+    "win_rate": 0.5,
+    "bans": 7,
+    "picks_bans": 19,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Mathilda",
+    "total_games": 12,
+    "wins": 9,
+    "losses": 3,
+    "win_rate": 0.75,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Grock",
+    "total_games": 12,
+    "wins": 7,
+    "losses": 5,
+    "win_rate": 0.5832999999999999,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Roger",
+    "total_games": 12,
+    "wins": 6,
+    "losses": 6,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Zhask",
+    "total_games": 12,
+    "wins": 7,
+    "losses": 5,
+    "win_rate": 0.5832999999999999,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Khaleed",
+    "total_games": 12,
+    "wins": 6,
+    "losses": 6,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Moskov",
+    "total_games": 12,
+    "wins": 4,
+    "losses": 8,
+    "win_rate": 0.3333,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Bruno",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 6,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Team Vamos",
+    "total_games": 11,
+    "wins": 5,
+    "losses": 6,
+    "win_rate": 0.4545,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Angela",
+    "total_games": 11,
+    "wins": 4,
+    "losses": 7,
+    "win_rate": 0.3636,
+    "bans": 8,
+    "picks_bans": 19,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Valentina",
+    "total_games": 11,
+    "wins": 7,
+    "losses": 4,
+    "win_rate": 0.6364,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Irithel",
+    "total_games": 10,
+    "wins": 3,
+    "losses": 7,
+    "win_rate": 0.3,
+    "bans": 5,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Ling",
+    "total_games": 10,
+    "wins": 8,
+    "losses": 2,
+    "win_rate": 0.8,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Karrie",
+    "total_games": 10,
+    "wins": 4,
+    "losses": 6,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "SRG.OG",
+    "total_games": 10,
+    "wins": 8,
+    "losses": 2,
+    "win_rate": 0.8,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Barats",
+    "total_games": 9,
+    "wins": 2,
+    "losses": 7,
+    "win_rate": 0.22219999999999998,
+    "bans": 6,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Ruby",
+    "total_games": 9,
+    "wins": 5,
+    "losses": 4,
+    "win_rate": 0.5556,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Khufra",
+    "total_games": 9,
+    "wins": 7,
+    "losses": 2,
+    "win_rate": 0.7778,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Edith",
+    "total_games": 9,
+    "wins": 6,
+    "losses": 3,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Luo Yi",
+    "total_games": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_rate": 0.44439999999999996,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Zhuxin",
+    "total_games": 9,
+    "wins": 6,
+    "losses": 3,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Team Rey",
+    "total_games": 9,
+    "wins": 6,
+    "losses": 3,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Alpha",
+    "total_games": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_rate": 0.44439999999999996,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Hilda",
+    "total_games": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_rate": 0.44439999999999996,
+    "bans": 4,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Gloo",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 3,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "RSG Malaysia",
+    "total_games": 7,
+    "wins": 1,
+    "losses": 6,
+    "win_rate": 0.1429,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "JP NINERS",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Monster Vicious",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Julian",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "X.Borg",
+    "total_games": 6,
+    "wins": 5,
+    "losses": 1,
+    "win_rate": 0.8332999999999999,
+    "bans": 1,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Minotaur",
+    "total_games": 6,
+    "wins": 2,
+    "losses": 4,
+    "win_rate": 0.3333,
+    "bans": 3,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Melissa",
+    "total_games": 6,
+    "wins": 2,
+    "losses": 4,
+    "win_rate": 0.3333,
+    "bans": 4,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Hanabi",
+    "total_games": 6,
+    "wins": 2,
+    "losses": 4,
+    "win_rate": 0.3333,
+    "bans": 2,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Aero Esports",
+    "total_games": 6,
+    "wins": 4,
+    "losses": 2,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Bane",
+    "total_games": 6,
+    "wins": 2,
+    "losses": 4,
+    "win_rate": 0.3333,
+    "bans": 2,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Alice",
+    "total_games": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_rate": 0.4,
+    "bans": 3,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Team HAQ",
+    "total_games": 5,
+    "wins": 1,
+    "losses": 4,
+    "win_rate": 0.2,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Yve",
+    "total_games": 5,
+    "wins": 5,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Minsitthar",
+    "total_games": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Lolita",
+    "total_games": 4,
+    "wins": 1,
+    "losses": 3,
+    "win_rate": 0.25,
+    "bans": 0,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Akai",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Cecilion",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 2,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Martis",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 1,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Novaria",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 1,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Kaja",
+    "total_games": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Wanwan",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Carmilla",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Lancelot",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Natalia",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Brody",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Rafaela",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Franco",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Joy",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Pharsa",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Yu Zhong",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Thamuz",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Lesley",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Odette",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Johnson",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Harley",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Ixia",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Leomord",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Lapu-Lapu",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Fredrinn",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Belerick",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Chip",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Benedetta",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Diggie",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Popol and Kupa",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Selena",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14"
+  },
+  {
+    "hero": "Bruno",
+    "total_games": 85,
+    "wins": 47,
+    "losses": 38,
+    "win_rate": 0.5529,
+    "bans": 44,
+    "picks_bans": 129,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Angela",
+    "total_games": 35,
+    "wins": 14,
+    "losses": 21,
+    "win_rate": 0.4,
+    "bans": 23,
+    "picks_bans": 58,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Brody",
+    "total_games": 27,
+    "wins": 19,
+    "losses": 8,
+    "win_rate": 0.7037,
+    "bans": 0,
+    "picks_bans": 27,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Nolan",
+    "total_games": 27,
+    "wins": 19,
+    "losses": 8,
+    "win_rate": 0.7037,
+    "bans": 5,
+    "picks_bans": 32,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Yu Zhong",
+    "total_games": 26,
+    "wins": 9,
+    "losses": 17,
+    "win_rate": 0.34619999999999995,
+    "bans": 18,
+    "picks_bans": 44,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Tigreal",
+    "total_games": 26,
+    "wins": 14,
+    "losses": 12,
+    "win_rate": 0.5385,
+    "bans": 11,
+    "picks_bans": 37,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Paquito",
+    "total_games": 26,
+    "wins": 14,
+    "losses": 12,
+    "win_rate": 0.5385,
+    "bans": 13,
+    "picks_bans": 39,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Kaja",
+    "total_games": 25,
+    "wins": 10,
+    "losses": 15,
+    "win_rate": 0.4,
+    "bans": 10,
+    "picks_bans": 35,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Chou",
+    "total_games": 24,
+    "wins": 12,
+    "losses": 12,
+    "win_rate": 0.5,
+    "bans": 13,
+    "picks_bans": 37,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Arlott",
+    "total_games": 24,
+    "wins": 12,
+    "losses": 12,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 24,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Edith",
+    "total_games": 22,
+    "wins": 11,
+    "losses": 11,
+    "win_rate": 0.5,
+    "bans": 9,
+    "picks_bans": 31,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Valentina",
+    "total_games": 22,
+    "wins": 12,
+    "losses": 10,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 22,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Lapu-Lapu",
+    "total_games": 21,
+    "wins": 9,
+    "losses": 12,
+    "win_rate": 0.4286,
+    "bans": 12,
+    "picks_bans": 33,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Khufra",
+    "total_games": 21,
+    "wins": 10,
+    "losses": 11,
+    "win_rate": 0.47619999999999996,
+    "bans": 10,
+    "picks_bans": 31,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Lylia",
+    "total_games": 21,
+    "wins": 12,
+    "losses": 9,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 21,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Dyrroth",
+    "total_games": 20,
+    "wins": 12,
+    "losses": 8,
+    "win_rate": 0.6,
+    "bans": 12,
+    "picks_bans": 32,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Terizla",
+    "total_games": 19,
+    "wins": 12,
+    "losses": 7,
+    "win_rate": 0.6315999999999999,
+    "bans": 0,
+    "picks_bans": 19,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Faramis",
+    "total_games": 18,
+    "wins": 12,
+    "losses": 6,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Karrie",
+    "total_games": 18,
+    "wins": 9,
+    "losses": 9,
+    "win_rate": 0.5,
+    "bans": 11,
+    "picks_bans": 29,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Guinevere",
+    "total_games": 17,
+    "wins": 7,
+    "losses": 10,
+    "win_rate": 0.4118,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Wanwan",
+    "total_games": 17,
+    "wins": 6,
+    "losses": 11,
+    "win_rate": 0.3529,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Akai",
+    "total_games": 17,
+    "wins": 9,
+    "losses": 8,
+    "win_rate": 0.5294,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Fredrinn",
+    "total_games": 17,
+    "wins": 6,
+    "losses": 11,
+    "win_rate": 0.3529,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Claude",
+    "total_games": 16,
+    "wins": 8,
+    "losses": 8,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Ruby",
+    "total_games": 15,
+    "wins": 8,
+    "losses": 7,
+    "win_rate": 0.5333,
+    "bans": 6,
+    "picks_bans": 21,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Martis",
+    "total_games": 15,
+    "wins": 6,
+    "losses": 9,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Mathilda",
+    "total_games": 13,
+    "wins": 9,
+    "losses": 4,
+    "win_rate": 0.6923,
+    "bans": 0,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Joy",
+    "total_games": 13,
+    "wins": 5,
+    "losses": 8,
+    "win_rate": 0.3846,
+    "bans": 0,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Lancelot",
+    "total_games": 13,
+    "wins": 6,
+    "losses": 7,
+    "win_rate": 0.46149999999999997,
+    "bans": 8,
+    "picks_bans": 21,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Minotaur",
+    "total_games": 13,
+    "wins": 6,
+    "losses": 7,
+    "win_rate": 0.46149999999999997,
+    "bans": 0,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Ixia",
+    "total_games": 12,
+    "wins": 5,
+    "losses": 7,
+    "win_rate": 0.4167,
+    "bans": 4,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Phoveus",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 6,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Kadita",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 6,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Hilda",
+    "total_games": 11,
+    "wins": 4,
+    "losses": 7,
+    "win_rate": 0.3636,
+    "bans": 6,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Grock",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 5,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Baxia",
+    "total_games": 11,
+    "wins": 1,
+    "losses": 10,
+    "win_rate": 0.0909,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Khaleed",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Uranus",
+    "total_games": 10,
+    "wins": 5,
+    "losses": 5,
+    "win_rate": 0.5,
+    "bans": 7,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Gord",
+    "total_games": 10,
+    "wins": 7,
+    "losses": 3,
+    "win_rate": 0.7,
+    "bans": 6,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Geek Fam ID",
+    "total_games": 10,
+    "wins": 4,
+    "losses": 6,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Diggie",
+    "total_games": 9,
+    "wins": 5,
+    "losses": 4,
+    "win_rate": 0.5556,
+    "bans": 7,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Novaria",
+    "total_games": 9,
+    "wins": 6,
+    "losses": 3,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Deus Vult",
+    "total_games": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_rate": 0.44439999999999996,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Team SMG",
+    "total_games": 9,
+    "wins": 8,
+    "losses": 1,
+    "win_rate": 0.8889,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Rafaela",
+    "total_games": 8,
+    "wins": 7,
+    "losses": 1,
+    "win_rate": 0.875,
+    "bans": 3,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Benedetta",
+    "total_games": 8,
+    "wins": 6,
+    "losses": 2,
+    "win_rate": 0.75,
+    "bans": 3,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Team Lilgun",
+    "total_games": 8,
+    "wins": 5,
+    "losses": 3,
+    "win_rate": 0.625,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Fanny",
+    "total_games": 8,
+    "wins": 3,
+    "losses": 5,
+    "win_rate": 0.375,
+    "bans": 5,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Blacklist International",
+    "total_games": 8,
+    "wins": 6,
+    "losses": 2,
+    "win_rate": 0.75,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "X.Borg",
+    "total_games": 8,
+    "wins": 3,
+    "losses": 5,
+    "win_rate": 0.375,
+    "bans": 1,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Franco",
+    "total_games": 7,
+    "wins": 2,
+    "losses": 5,
+    "win_rate": 0.2857,
+    "bans": 4,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Thamuz",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 2,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Fire Flux Esports",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Gloo",
+    "total_games": 6,
+    "wins": 5,
+    "losses": 1,
+    "win_rate": 0.8332999999999999,
+    "bans": 2,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "AP.Bren",
+    "total_games": 6,
+    "wins": 6,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Estes",
+    "total_games": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_rate": 0.8,
+    "bans": 2,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Floryn",
+    "total_games": 5,
+    "wins": 0,
+    "losses": 5,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Imperio",
+    "total_games": 5,
+    "wins": 3,
+    "losses": 2,
+    "win_rate": 0.6,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Beatrix",
+    "total_games": 5,
+    "wins": 5,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "RRQ Akira",
+    "total_games": 5,
+    "wins": 1,
+    "losses": 4,
+    "win_rate": 0.2,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Leomord",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Harith",
+    "total_games": 4,
+    "wins": 4,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Clint",
+    "total_games": 4,
+    "wins": 1,
+    "losses": 3,
+    "win_rate": 0.25,
+    "bans": 2,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Yve",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 2,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "KeepBest Gaming",
+    "total_games": 3,
+    "wins": 0,
+    "losses": 3,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Umbrella Squad",
+    "total_games": 3,
+    "wins": 0,
+    "losses": 3,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Niightmare Esports",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Hayabusa",
+    "total_games": 3,
+    "wins": 0,
+    "losses": 3,
+    "win_rate": 0.0,
+    "bans": 2,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Helcurt",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 2,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Gusion",
+    "total_games": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Esmeralda",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Roger",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Odette",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Lunox",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Irithel",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "TheOhioBrothers",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Team Falcons",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "4Merical Esports",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Alpha",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Luo Yi",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Masha",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Ling",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Yi Sun-shin",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Aamon",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Triple Esports",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Bigetron Zeta",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Pharsa",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/M5_World_Championship"
+  },
+  {
+    "hero": "Gatotkaca",
+    "total_games": 39,
+    "wins": 19,
+    "losses": 20,
+    "win_rate": 0.48719999999999997,
+    "bans": 19,
+    "picks_bans": 58,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Grock",
+    "total_games": 15,
+    "wins": 6,
+    "losses": 9,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Granger",
+    "total_games": 11,
+    "wins": 3,
+    "losses": 8,
+    "win_rate": 0.2727,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Lapu-Lapu",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Lancelot",
+    "total_games": 10,
+    "wins": 7,
+    "losses": 3,
+    "win_rate": 0.7,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Lunox",
+    "total_games": 9,
+    "wins": 5,
+    "losses": 4,
+    "win_rate": 0.5556,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Yu Zhong",
+    "total_games": 9,
+    "wins": 5,
+    "losses": 4,
+    "win_rate": 0.5556,
+    "bans": 7,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Fredrinn",
+    "total_games": 8,
+    "wins": 4,
+    "losses": 4,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Hayabusa",
+    "total_games": 8,
+    "wins": 3,
+    "losses": 5,
+    "win_rate": 0.375,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Esmeralda",
+    "total_games": 8,
+    "wins": 4,
+    "losses": 4,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Angela",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 6,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Yi Sun-shin",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Baxia",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Yve",
+    "total_games": 7,
+    "wins": 6,
+    "losses": 1,
+    "win_rate": 0.8571,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Karrie",
+    "total_games": 6,
+    "wins": 4,
+    "losses": 2,
+    "win_rate": 0.6667000000000001,
+    "bans": 3,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Kimmy",
+    "total_games": 6,
+    "wins": 4,
+    "losses": 2,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Kalea",
+    "total_games": 6,
+    "wins": 3,
+    "losses": 3,
+    "win_rate": 0.5,
+    "bans": 3,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Joy",
+    "total_games": 6,
+    "wins": 3,
+    "losses": 3,
+    "win_rate": 0.5,
+    "bans": 3,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Uranus",
+    "total_games": 5,
+    "wins": 1,
+    "losses": 4,
+    "win_rate": 0.2,
+    "bans": 4,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Zhuxin",
+    "total_games": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Hilda",
+    "total_games": 5,
+    "wins": 3,
+    "losses": 2,
+    "win_rate": 0.6,
+    "bans": 3,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Irithel",
+    "total_games": 5,
+    "wins": 3,
+    "losses": 2,
+    "win_rate": 0.6,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Arlott",
+    "total_games": 5,
+    "wins": 5,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Ruby",
+    "total_games": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_rate": 0.8,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "X.Borg",
+    "total_games": 5,
+    "wins": 3,
+    "losses": 2,
+    "win_rate": 0.6,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Moskov",
+    "total_games": 5,
+    "wins": 3,
+    "losses": 2,
+    "win_rate": 0.6,
+    "bans": 3,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Harith",
+    "total_games": 4,
+    "wins": 4,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Guinevere",
+    "total_games": 4,
+    "wins": 3,
+    "losses": 1,
+    "win_rate": 0.75,
+    "bans": 1,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Cici",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Kagura",
+    "total_games": 4,
+    "wins": 1,
+    "losses": 3,
+    "win_rate": 0.25,
+    "bans": 2,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Suyou",
+    "total_games": 4,
+    "wins": 3,
+    "losses": 1,
+    "win_rate": 0.75,
+    "bans": 0,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Pharsa",
+    "total_games": 4,
+    "wins": 4,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Selena",
+    "total_games": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Kaja",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 1,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Khaleed",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 1,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Minotaur",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 2,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Phoveus",
+    "total_games": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Beatrix",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Cecilion",
+    "total_games": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Hylos",
+    "total_games": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Gloo",
+    "total_games": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Zetian",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Obsidia",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Mathilda",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Thamuz",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Terizla",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Badang",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Chou",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Roger",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Carmilla",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Alice",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Alpha",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Fanny",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Lylia",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Vexana",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Minsitthar",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Novaria",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Lolita",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Belerick",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Martis",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Sun",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Odette",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Nolan",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Kadita",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Benedetta",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Chip",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Melissa",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Julian",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Franco",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Wanwan",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Jawhead",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Clint",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Valir",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Akai",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Claude",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Bruno",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Floryn",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Luo Yi",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Valentina",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women"
+  },
+  {
+    "hero": "Granger",
+    "total_games": 38,
+    "wins": 19,
+    "losses": 19,
+    "win_rate": 0.5,
+    "bans": 22,
+    "picks_bans": 60,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Hayabusa",
+    "total_games": 18,
+    "wins": 10,
+    "losses": 8,
+    "win_rate": 0.5556,
+    "bans": 6,
+    "picks_bans": 24,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Moskov",
+    "total_games": 17,
+    "wins": 11,
+    "losses": 6,
+    "win_rate": 0.6470999999999999,
+    "bans": 7,
+    "picks_bans": 24,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Uranus",
+    "total_games": 13,
+    "wins": 6,
+    "losses": 7,
+    "win_rate": 0.46149999999999997,
+    "bans": 5,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Kimmy",
+    "total_games": 12,
+    "wins": 6,
+    "losses": 6,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Selena",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 4,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Bruno",
+    "total_games": 11,
+    "wins": 4,
+    "losses": 7,
+    "win_rate": 0.3636,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Zhuxin",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Yu Zhong",
+    "total_games": 11,
+    "wins": 5,
+    "losses": 6,
+    "win_rate": 0.4545,
+    "bans": 8,
+    "picks_bans": 19,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Angela",
+    "total_games": 10,
+    "wins": 4,
+    "losses": 6,
+    "win_rate": 0.4,
+    "bans": 5,
+    "picks_bans": 15,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Joy",
+    "total_games": 9,
+    "wins": 5,
+    "losses": 4,
+    "win_rate": 0.5556,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Arlott",
+    "total_games": 9,
+    "wins": 2,
+    "losses": 7,
+    "win_rate": 0.22219999999999998,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Kalea",
+    "total_games": 9,
+    "wins": 5,
+    "losses": 4,
+    "win_rate": 0.5556,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Gloo",
+    "total_games": 9,
+    "wins": 4,
+    "losses": 5,
+    "win_rate": 0.44439999999999996,
+    "bans": 4,
+    "picks_bans": 13,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Lapu-Lapu",
+    "total_games": 8,
+    "wins": 5,
+    "losses": 3,
+    "win_rate": 0.625,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Pharsa",
+    "total_games": 8,
+    "wins": 5,
+    "losses": 3,
+    "win_rate": 0.625,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Yve",
+    "total_games": 8,
+    "wins": 5,
+    "losses": 3,
+    "win_rate": 0.625,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Grock",
+    "total_games": 8,
+    "wins": 6,
+    "losses": 2,
+    "win_rate": 0.75,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "DreamMax e-Sports",
+    "total_games": 8,
+    "wins": 4,
+    "losses": 4,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Fredrinn",
+    "total_games": 8,
+    "wins": 5,
+    "losses": 3,
+    "win_rate": 0.625,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Alpha7 Esports",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "INFLUENCE RAGE",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Lancelot",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Esmeralda",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Gatotkaca",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Ruby",
+    "total_games": 7,
+    "wins": 2,
+    "losses": 5,
+    "win_rate": 0.2857,
+    "bans": 4,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Terizla",
+    "total_games": 7,
+    "wins": 1,
+    "losses": 6,
+    "win_rate": 0.1429,
+    "bans": 3,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Akai",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Wanwan",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 4,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Valentina",
+    "total_games": 7,
+    "wins": 6,
+    "losses": 1,
+    "win_rate": 0.8571,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Hylos",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Cici",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Baxia",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Alice",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Harith",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Khaleed",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Lunox",
+    "total_games": 6,
+    "wins": 3,
+    "losses": 3,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Phoveus",
+    "total_games": 6,
+    "wins": 2,
+    "losses": 4,
+    "win_rate": 0.3333,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Yi Sun-shin",
+    "total_games": 6,
+    "wins": 4,
+    "losses": 2,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Zetian",
+    "total_games": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_rate": 0.8,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Mathilda",
+    "total_games": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Bane",
+    "total_games": 5,
+    "wins": 5,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Fanny",
+    "total_games": 5,
+    "wins": 1,
+    "losses": 4,
+    "win_rate": 0.2,
+    "bans": 2,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Black Sentence Esports",
+    "total_games": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_rate": 0.8,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Karrie",
+    "total_games": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_rate": 0.8,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Claude",
+    "total_games": 5,
+    "wins": 3,
+    "losses": 2,
+    "win_rate": 0.6,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "ULF Esports",
+    "total_games": 5,
+    "wins": 1,
+    "losses": 4,
+    "win_rate": 0.2,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Hilda",
+    "total_games": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Badang",
+    "total_games": 5,
+    "wins": 1,
+    "losses": 4,
+    "win_rate": 0.2,
+    "bans": 3,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Kagura",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Natan",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Franco",
+    "total_games": 4,
+    "wins": 0,
+    "losses": 4,
+    "win_rate": 0.0,
+    "bans": 3,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Guinevere",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 2,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Kadita",
+    "total_games": 4,
+    "wins": 3,
+    "losses": 1,
+    "win_rate": 0.75,
+    "bans": 1,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "9z Team",
+    "total_games": 4,
+    "wins": 3,
+    "losses": 1,
+    "win_rate": 0.75,
+    "bans": 0,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Novaria",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 1,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Infinity",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "X.Borg",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Entity7",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Chou",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Vexana",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Irithel",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Chip",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Thamuz",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Beatrix",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Obsidia",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Minotaur",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Brody",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Alpha",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Tigreal",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Suyou",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Helcurt",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Kaja",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Ling",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Odette",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Paquito",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Benedetta",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Ixia",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Carmilla",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Balmond",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Faramis",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Lukas",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Diggie",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Belerick",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Atlas",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Barats",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Clint",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Khufra",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Cecilion",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Luo Yi",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Miya",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4"
+  },
+  {
+    "hero": "Fredrinn",
+    "total_games": 52,
+    "wins": 27,
+    "losses": 25,
+    "win_rate": 0.5192,
+    "bans": 26,
+    "picks_bans": 78,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Wanwan",
+    "total_games": 21,
+    "wins": 10,
+    "losses": 11,
+    "win_rate": 0.47619999999999996,
+    "bans": 10,
+    "picks_bans": 31,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Valentina",
+    "total_games": 17,
+    "wins": 13,
+    "losses": 4,
+    "win_rate": 0.7646999999999999,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Paquito",
+    "total_games": 17,
+    "wins": 10,
+    "losses": 7,
+    "win_rate": 0.5882000000000001,
+    "bans": 0,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Martis",
+    "total_games": 16,
+    "wins": 6,
+    "losses": 10,
+    "win_rate": 0.375,
+    "bans": 5,
+    "picks_bans": 21,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Brody",
+    "total_games": 15,
+    "wins": 10,
+    "losses": 5,
+    "win_rate": 0.6667000000000001,
+    "bans": 5,
+    "picks_bans": 20,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Yve",
+    "total_games": 14,
+    "wins": 6,
+    "losses": 8,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Floryn",
+    "total_games": 14,
+    "wins": 5,
+    "losses": 9,
+    "win_rate": 0.35710000000000003,
+    "bans": 8,
+    "picks_bans": 22,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Lolita",
+    "total_games": 14,
+    "wins": 6,
+    "losses": 8,
+    "win_rate": 0.4286,
+    "bans": 8,
+    "picks_bans": 22,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Baxia",
+    "total_games": 14,
+    "wins": 8,
+    "losses": 6,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Beatrix",
+    "total_games": 14,
+    "wins": 6,
+    "losses": 8,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Hayabusa",
+    "total_games": 13,
+    "wins": 9,
+    "losses": 4,
+    "win_rate": 0.6923,
+    "bans": 5,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Esmeralda",
+    "total_games": 12,
+    "wins": 4,
+    "losses": 8,
+    "win_rate": 0.3333,
+    "bans": 5,
+    "picks_bans": 17,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Lapu-Lapu",
+    "total_games": 12,
+    "wins": 5,
+    "losses": 7,
+    "win_rate": 0.4167,
+    "bans": 6,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Lancelot",
+    "total_games": 12,
+    "wins": 5,
+    "losses": 7,
+    "win_rate": 0.4167,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Karrie",
+    "total_games": 12,
+    "wins": 6,
+    "losses": 6,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Khufra",
+    "total_games": 12,
+    "wins": 8,
+    "losses": 4,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Pharsa",
+    "total_games": 11,
+    "wins": 5,
+    "losses": 6,
+    "win_rate": 0.4545,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Lesley",
+    "total_games": 11,
+    "wins": 7,
+    "losses": 4,
+    "win_rate": 0.6364,
+    "bans": 5,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Uranus",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Ling",
+    "total_games": 11,
+    "wins": 3,
+    "losses": 8,
+    "win_rate": 0.2727,
+    "bans": 7,
+    "picks_bans": 18,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Claude",
+    "total_games": 11,
+    "wins": 7,
+    "losses": 4,
+    "win_rate": 0.6364,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Grock",
+    "total_games": 11,
+    "wins": 6,
+    "losses": 5,
+    "win_rate": 0.5455,
+    "bans": 0,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Ruby",
+    "total_games": 10,
+    "wins": 4,
+    "losses": 6,
+    "win_rate": 0.4,
+    "bans": 4,
+    "picks_bans": 14,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Melissa",
+    "total_games": 10,
+    "wins": 3,
+    "losses": 7,
+    "win_rate": 0.3,
+    "bans": 6,
+    "picks_bans": 16,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Terizla",
+    "total_games": 10,
+    "wins": 6,
+    "losses": 4,
+    "win_rate": 0.6,
+    "bans": 0,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Randoms Esports",
+    "total_games": 9,
+    "wins": 3,
+    "losses": 6,
+    "win_rate": 0.3333,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Bigetron Zeta",
+    "total_games": 9,
+    "wins": 5,
+    "losses": 4,
+    "win_rate": 0.5556,
+    "bans": 0,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Kagura",
+    "total_games": 8,
+    "wins": 6,
+    "losses": 2,
+    "win_rate": 0.75,
+    "bans": 4,
+    "picks_bans": 12,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Kaja",
+    "total_games": 8,
+    "wins": 6,
+    "losses": 2,
+    "win_rate": 0.75,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Chou",
+    "total_games": 8,
+    "wins": 3,
+    "losses": 5,
+    "win_rate": 0.375,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Team Zeus E-sports",
+    "total_games": 8,
+    "wins": 6,
+    "losses": 2,
+    "win_rate": 0.75,
+    "bans": 0,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Estes",
+    "total_games": 7,
+    "wins": 3,
+    "losses": 4,
+    "win_rate": 0.4286,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "DreamMax e-Sports",
+    "total_games": 7,
+    "wins": 5,
+    "losses": 2,
+    "win_rate": 0.7143,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "RRQ Akira",
+    "total_games": 7,
+    "wins": 6,
+    "losses": 1,
+    "win_rate": 0.8571,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Malvinas Brazil",
+    "total_games": 7,
+    "wins": 4,
+    "losses": 3,
+    "win_rate": 0.5714,
+    "bans": 0,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Franco",
+    "total_games": 6,
+    "wins": 3,
+    "losses": 3,
+    "win_rate": 0.5,
+    "bans": 1,
+    "picks_bans": 7,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Barats",
+    "total_games": 6,
+    "wins": 4,
+    "losses": 2,
+    "win_rate": 0.6667000000000001,
+    "bans": 4,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Angela",
+    "total_games": 6,
+    "wins": 2,
+    "losses": 4,
+    "win_rate": 0.3333,
+    "bans": 5,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Lunox",
+    "total_games": 6,
+    "wins": 1,
+    "losses": 5,
+    "win_rate": 0.16670000000000001,
+    "bans": 2,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Minotaur",
+    "total_games": 6,
+    "wins": 3,
+    "losses": 3,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Xavier",
+    "total_games": 6,
+    "wins": 1,
+    "losses": 5,
+    "win_rate": 0.16670000000000001,
+    "bans": 4,
+    "picks_bans": 10,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Kadita",
+    "total_games": 6,
+    "wins": 3,
+    "losses": 3,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Gloo",
+    "total_games": 6,
+    "wins": 2,
+    "losses": 4,
+    "win_rate": 0.3333,
+    "bans": 3,
+    "picks_bans": 9,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "INFLUENCE RAGE",
+    "total_games": 6,
+    "wins": 0,
+    "losses": 6,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "X.Borg",
+    "total_games": 6,
+    "wins": 2,
+    "losses": 4,
+    "win_rate": 0.3333,
+    "bans": 5,
+    "picks_bans": 11,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Fanny",
+    "total_games": 5,
+    "wins": 3,
+    "losses": 2,
+    "win_rate": 0.6,
+    "bans": 3,
+    "picks_bans": 8,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Harith",
+    "total_games": 5,
+    "wins": 3,
+    "losses": 2,
+    "win_rate": 0.6,
+    "bans": 1,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Bane",
+    "total_games": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_rate": 0.8,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Faramis",
+    "total_games": 5,
+    "wins": 4,
+    "losses": 1,
+    "win_rate": 0.8,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Cyber Hunters",
+    "total_games": 5,
+    "wins": 2,
+    "losses": 3,
+    "win_rate": 0.4,
+    "bans": 0,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Yu Zhong",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 2,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Irithel",
+    "total_games": 4,
+    "wins": 3,
+    "losses": 1,
+    "win_rate": 0.75,
+    "bans": 0,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Arlott",
+    "total_games": 4,
+    "wins": 2,
+    "losses": 2,
+    "win_rate": 0.5,
+    "bans": 0,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Edith",
+    "total_games": 4,
+    "wins": 4,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Joy",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Hylos",
+    "total_games": 3,
+    "wins": 2,
+    "losses": 1,
+    "win_rate": 0.6667000000000001,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Atlas",
+    "total_games": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 2,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Lylia",
+    "total_games": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 3,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Helcurt",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 3,
+    "picks_bans": 6,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Valir",
+    "total_games": 3,
+    "wins": 1,
+    "losses": 2,
+    "win_rate": 0.3333,
+    "bans": 2,
+    "picks_bans": 5,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Alpha",
+    "total_games": 2,
+    "wins": 2,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Novaria",
+    "total_games": 2,
+    "wins": 1,
+    "losses": 1,
+    "win_rate": 0.5,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Diggie",
+    "total_games": 2,
+    "wins": 0,
+    "losses": 2,
+    "win_rate": 0.0,
+    "bans": 2,
+    "picks_bans": 4,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Gord",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Vale",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Moskov",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Hanabi",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Guinevere",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Bruno",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Clint",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Balmond",
+    "total_games": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Hanzo",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 1,
+    "picks_bans": 2,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Akai",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Badang",
+    "total_games": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 1.0,
+    "bans": 0,
+    "picks_bans": 1,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Dyrroth",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Hilda",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  },
+  {
+    "hero": "Phoveus",
+    "total_games": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "bans": 0,
+    "picks_bans": 0,
+    "source": "https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5"
+  }
+]

@@ -1,0 +1,600 @@
+hero,total_games,wins,losses,win_rate,bans,picks_bans,source
+Edith,98,47,51,0.4796,43,141,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Faramis,50,33,17,0.66,26,76,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Claude,39,17,22,0.4359,16,55,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Tigreal,35,18,17,0.5143,18,53,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Jawhead,31,12,19,0.3871,12,43,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Lunox,23,12,11,0.5217,0,23,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Arlott,23,12,11,0.5217,0,23,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Nolan,23,11,12,0.4783,0,23,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Phoveus,22,11,11,0.5,0,22,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Luo Yi,22,14,8,0.6364,8,30,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Fanny,21,6,15,0.2857,6,27,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Ruby,21,9,12,0.4286,0,21,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Terizla,20,13,7,0.65,0,20,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Grock,20,9,11,0.45,9,29,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Zhask,20,8,12,0.4,0,20,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Vexana,18,7,11,0.3889,0,18,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Roger,18,8,10,0.44439999999999996,0,18,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Hylos,17,10,7,0.5882000000000001,0,17,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Barats,17,9,8,0.5294,7,24,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Valentina,17,5,12,0.29410000000000003,0,17,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Alpha,17,6,11,0.3529,0,17,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Mathilda,17,13,4,0.7646999999999999,0,17,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Rebellion Esports,17,5,12,0.29410000000000003,0,17,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Khufra,16,5,11,0.3125,6,22,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Wanwan,16,11,5,0.6875,9,25,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Moskov,16,7,9,0.4375,0,16,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Harith,16,8,8,0.5,0,16,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Julian,15,9,6,0.6,0,15,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Yve,15,5,10,0.3333,0,15,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Akai,15,5,10,0.3333,5,20,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Franco,15,8,7,0.5333,6,21,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Joy,14,3,11,0.2143,11,25,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Natan,14,6,8,0.4286,0,14,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Geek Fam ID,14,7,7,0.5,0,14,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Zhuxin,14,10,4,0.7143,0,14,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+X.Borg,13,8,5,0.6154,7,20,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Hayabusa,13,4,9,0.3077,0,13,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Gatotkaca,12,7,5,0.5832999999999999,0,12,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Beatrix,11,5,6,0.4545,0,11,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Alice,11,4,7,0.3636,7,18,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Minotaur,11,5,6,0.4545,4,15,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Ling,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Khaleed,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Angela,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Lancelot,11,7,4,0.6364,6,17,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Karrie,10,3,7,0.3,0,10,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Dewa United Esports,10,4,6,0.4,0,10,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Bigetron by Vitality,10,6,4,0.6,0,10,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Lolita,10,3,7,0.3,8,18,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Benedetta,9,4,5,0.44439999999999996,4,13,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Clint,9,4,5,0.44439999999999996,4,13,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Lylia,9,4,5,0.44439999999999996,3,12,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Chou,9,7,2,0.7778,0,9,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Thamuz,8,5,3,0.625,5,13,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Gloo,7,2,5,0.2857,3,10,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Suyou,7,5,2,0.7143,0,7,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Bane,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Carmilla,7,5,2,0.7143,4,11,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Irithel,7,5,2,0.7143,2,9,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Chip,7,3,4,0.4286,2,9,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Hilda,6,5,1,0.8332999999999999,4,10,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Kaja,6,4,2,0.6667000000000001,0,6,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Brody,5,2,3,0.4,2,7,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Yu Zhong,5,2,3,0.4,3,8,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Ixia,3,2,1,0.6667000000000001,1,4,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Rafaela,3,1,2,0.3333,3,6,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Bruno,3,1,2,0.3333,0,3,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Hanabi,2,0,2,0.0,1,3,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Novaria,2,0,2,0.0,1,3,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Melissa,2,0,2,0.0,1,3,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Helcurt,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Guinevere,2,1,1,0.5,2,4,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Fredrinn,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Paquito,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Atlas,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Cecilion,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Natalia,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Pharsa,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Uranus,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Masha,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Yin,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Cici,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Kadita,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Martis,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Minsitthar,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Nana,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Saber,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/Indonesia/Season_14
+Edith,101,60,41,0.5941,49,150,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Mathilda,32,18,14,0.5625,16,48,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Zhuxin,30,14,16,0.4667,7,37,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Suyou,29,18,11,0.6207,11,40,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Jawhead,28,12,16,0.4286,13,41,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Grock,28,13,15,0.4643,9,37,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Terizla,26,19,7,0.7308,0,26,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Hayabusa,24,11,13,0.4583,0,24,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Aurora Gaming PH,21,15,6,0.7143,0,21,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Chou,20,10,10,0.5,0,20,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Julian,20,10,10,0.5,0,20,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Tigreal,20,9,11,0.45,0,20,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Yve,20,8,12,0.4,16,36,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Harith,20,13,7,0.65,0,20,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Natan,19,9,10,0.47369999999999995,10,29,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Vexana,19,10,9,0.5263,0,19,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Moskov,19,12,7,0.6315999999999999,0,19,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Nolan,19,13,6,0.6842,0,19,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Hylos,18,8,10,0.44439999999999996,0,18,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Valentina,17,9,8,0.5294,0,17,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+ONIC Philippines,17,14,3,0.8234999999999999,0,17,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Roger,17,8,9,0.4706,0,17,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Fanny,17,9,8,0.5294,6,23,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Ling,16,8,8,0.5,0,16,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Omega Esports,15,9,6,0.6,0,15,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Arlott,15,3,12,0.2,0,15,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Lolita,15,7,8,0.4667,10,25,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Claude,14,8,6,0.5714,0,14,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Phoveus,14,9,5,0.6429,0,14,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+AP.Bren,14,9,5,0.6429,0,14,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Lylia,13,10,3,0.7692,4,17,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+RSG Philippines,13,6,7,0.46149999999999997,0,13,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Lunox,12,6,6,0.5,4,16,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Khaleed,12,6,6,0.5,0,12,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Minotaur,12,9,3,0.75,5,17,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Team Liquid PH,12,8,4,0.6667000000000001,0,12,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Faramis,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Gatotkaca,11,3,8,0.2727,0,11,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Bane,11,6,5,0.5455,10,21,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Ruby,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+X.Borg,10,5,5,0.5,4,14,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Bruno,10,4,6,0.4,2,12,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Zhask,10,5,5,0.5,0,10,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Clint,9,4,5,0.44439999999999996,5,14,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Alice,8,4,4,0.5,3,11,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Cici,8,6,2,0.75,4,12,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+TNC Pro Team,8,1,7,0.125,0,8,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Angela,7,3,4,0.4286,4,11,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Kaja,7,3,4,0.4286,1,8,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Wanwan,7,3,4,0.4286,1,8,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Karrie,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Blacklist International,7,3,4,0.4286,0,7,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Alpha,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Beatrix,6,5,1,0.8332999999999999,0,6,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Gloo,6,3,3,0.5,4,10,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Khufra,6,3,3,0.5,3,9,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Luo Yi,6,3,3,0.5,0,6,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Rafaela,5,2,3,0.4,0,5,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Carmilla,5,4,1,0.8,2,7,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Benedetta,4,1,3,0.25,2,6,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Thamuz,4,1,3,0.25,2,6,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Joy,4,1,3,0.25,2,6,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Barats,4,2,2,0.5,3,7,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Melissa,4,2,2,0.5,1,5,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Belerick,3,2,1,0.6667000000000001,1,4,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Lancelot,3,2,1,0.6667000000000001,3,6,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Ixia,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Akai,2,2,0,1.0,1,3,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Cecilion,2,2,0,1.0,2,4,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Franco,2,2,0,1.0,1,3,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Helcurt,2,0,2,0.0,1,3,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Yu Zhong,2,0,2,0.0,2,4,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Kagura,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Martis,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Minsitthar,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Masha,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Miya,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Fredrinn,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Novaria,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Guinevere,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Hanabi,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Diggie,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Baxia,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Nana,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Hanzo,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Paquito,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Brody,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Chip,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/Philippines/Season_14
+Chou,57,31,26,0.5439,30,87,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Claude,29,13,16,0.4483,11,40,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Natan,27,18,9,0.6667000000000001,15,42,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Terizla,24,8,16,0.3333,10,34,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Lunox,19,12,7,0.6315999999999999,11,30,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Cici,18,7,11,0.3889,11,29,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Beatrix,17,11,6,0.6470999999999999,10,27,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Gatotkaca,16,6,10,0.375,0,16,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Jawhead,15,7,8,0.4667,10,25,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Nolan,15,8,7,0.5333,0,15,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Hylos,14,10,4,0.7143,0,14,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Vexana,14,7,7,0.5,0,14,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Phoveus,14,7,7,0.5,0,14,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Hayabusa,13,7,6,0.5385,0,13,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Suyou,13,4,9,0.3077,0,13,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Fanny,13,8,5,0.6154,5,18,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Harith,13,6,7,0.46149999999999997,0,13,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Arlott,12,5,7,0.4167,0,12,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Tigreal,12,7,5,0.5832999999999999,6,18,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Faramis,12,6,6,0.5,7,19,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Mathilda,12,9,3,0.75,0,12,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Grock,12,7,5,0.5832999999999999,0,12,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Roger,12,6,6,0.5,0,12,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Zhask,12,7,5,0.5832999999999999,0,12,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Khaleed,12,6,6,0.5,0,12,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Moskov,12,4,8,0.3333,0,12,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Bruno,11,6,5,0.5455,6,17,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Team Vamos,11,5,6,0.4545,0,11,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Angela,11,4,7,0.3636,8,19,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Valentina,11,7,4,0.6364,0,11,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Irithel,10,3,7,0.3,5,15,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Ling,10,8,2,0.8,0,10,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Karrie,10,4,6,0.4,0,10,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+SRG.OG,10,8,2,0.8,0,10,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Barats,9,2,7,0.22219999999999998,6,15,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Ruby,9,5,4,0.5556,0,9,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Khufra,9,7,2,0.7778,0,9,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Edith,9,6,3,0.6667000000000001,0,9,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Luo Yi,9,4,5,0.44439999999999996,0,9,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Zhuxin,9,6,3,0.6667000000000001,0,9,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Team Rey,9,6,3,0.6667000000000001,0,9,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Alpha,9,4,5,0.44439999999999996,0,9,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Hilda,9,4,5,0.44439999999999996,4,13,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Gloo,7,5,2,0.7143,3,10,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+RSG Malaysia,7,1,6,0.1429,0,7,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+JP NINERS,7,5,2,0.7143,0,7,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Monster Vicious,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Julian,7,5,2,0.7143,0,7,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+X.Borg,6,5,1,0.8332999999999999,1,7,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Minotaur,6,2,4,0.3333,3,9,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Melissa,6,2,4,0.3333,4,10,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Hanabi,6,2,4,0.3333,2,8,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Aero Esports,6,4,2,0.6667000000000001,0,6,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Bane,6,2,4,0.3333,2,8,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Alice,5,2,3,0.4,3,8,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Team HAQ,5,1,4,0.2,0,5,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Yve,5,5,0,1.0,0,5,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Minsitthar,5,2,3,0.4,0,5,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Lolita,4,1,3,0.25,0,4,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Akai,4,2,2,0.5,1,5,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Cecilion,3,2,1,0.6667000000000001,2,5,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Martis,3,2,1,0.6667000000000001,1,4,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Novaria,3,1,2,0.3333,1,4,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Kaja,3,3,0,1.0,0,3,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Wanwan,3,1,2,0.3333,0,3,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Carmilla,2,2,0,1.0,0,2,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Lancelot,2,2,0,1.0,0,2,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Natalia,2,2,0,1.0,1,3,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Brody,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Rafaela,2,1,1,0.5,2,4,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Franco,2,0,2,0.0,2,4,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Joy,2,0,2,0.0,1,3,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Pharsa,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Yu Zhong,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Thamuz,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Lesley,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Odette,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Johnson,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Harley,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Ixia,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Leomord,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Lapu-Lapu,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Fredrinn,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Belerick,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Chip,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Benedetta,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Diggie,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Popol and Kupa,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Selena,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/Malaysia/Season_14
+Bruno,85,47,38,0.5529,44,129,https://liquipedia.net/mobilelegends/M5_World_Championship
+Angela,35,14,21,0.4,23,58,https://liquipedia.net/mobilelegends/M5_World_Championship
+Brody,27,19,8,0.7037,0,27,https://liquipedia.net/mobilelegends/M5_World_Championship
+Nolan,27,19,8,0.7037,5,32,https://liquipedia.net/mobilelegends/M5_World_Championship
+Yu Zhong,26,9,17,0.34619999999999995,18,44,https://liquipedia.net/mobilelegends/M5_World_Championship
+Tigreal,26,14,12,0.5385,11,37,https://liquipedia.net/mobilelegends/M5_World_Championship
+Paquito,26,14,12,0.5385,13,39,https://liquipedia.net/mobilelegends/M5_World_Championship
+Kaja,25,10,15,0.4,10,35,https://liquipedia.net/mobilelegends/M5_World_Championship
+Chou,24,12,12,0.5,13,37,https://liquipedia.net/mobilelegends/M5_World_Championship
+Arlott,24,12,12,0.5,0,24,https://liquipedia.net/mobilelegends/M5_World_Championship
+Edith,22,11,11,0.5,9,31,https://liquipedia.net/mobilelegends/M5_World_Championship
+Valentina,22,12,10,0.5455,0,22,https://liquipedia.net/mobilelegends/M5_World_Championship
+Lapu-Lapu,21,9,12,0.4286,12,33,https://liquipedia.net/mobilelegends/M5_World_Championship
+Khufra,21,10,11,0.47619999999999996,10,31,https://liquipedia.net/mobilelegends/M5_World_Championship
+Lylia,21,12,9,0.5714,0,21,https://liquipedia.net/mobilelegends/M5_World_Championship
+Dyrroth,20,12,8,0.6,12,32,https://liquipedia.net/mobilelegends/M5_World_Championship
+Terizla,19,12,7,0.6315999999999999,0,19,https://liquipedia.net/mobilelegends/M5_World_Championship
+Faramis,18,12,6,0.6667000000000001,0,18,https://liquipedia.net/mobilelegends/M5_World_Championship
+Karrie,18,9,9,0.5,11,29,https://liquipedia.net/mobilelegends/M5_World_Championship
+Guinevere,17,7,10,0.4118,0,17,https://liquipedia.net/mobilelegends/M5_World_Championship
+Wanwan,17,6,11,0.3529,0,17,https://liquipedia.net/mobilelegends/M5_World_Championship
+Akai,17,9,8,0.5294,0,17,https://liquipedia.net/mobilelegends/M5_World_Championship
+Fredrinn,17,6,11,0.3529,0,17,https://liquipedia.net/mobilelegends/M5_World_Championship
+Claude,16,8,8,0.5,0,16,https://liquipedia.net/mobilelegends/M5_World_Championship
+Ruby,15,8,7,0.5333,6,21,https://liquipedia.net/mobilelegends/M5_World_Championship
+Martis,15,6,9,0.4,0,15,https://liquipedia.net/mobilelegends/M5_World_Championship
+Mathilda,13,9,4,0.6923,0,13,https://liquipedia.net/mobilelegends/M5_World_Championship
+Joy,13,5,8,0.3846,0,13,https://liquipedia.net/mobilelegends/M5_World_Championship
+Lancelot,13,6,7,0.46149999999999997,8,21,https://liquipedia.net/mobilelegends/M5_World_Championship
+Minotaur,13,6,7,0.46149999999999997,0,13,https://liquipedia.net/mobilelegends/M5_World_Championship
+Ixia,12,5,7,0.4167,4,16,https://liquipedia.net/mobilelegends/M5_World_Championship
+Phoveus,11,6,5,0.5455,6,17,https://liquipedia.net/mobilelegends/M5_World_Championship
+Kadita,11,6,5,0.5455,6,17,https://liquipedia.net/mobilelegends/M5_World_Championship
+Hilda,11,4,7,0.3636,6,17,https://liquipedia.net/mobilelegends/M5_World_Championship
+Grock,11,6,5,0.5455,5,16,https://liquipedia.net/mobilelegends/M5_World_Championship
+Baxia,11,1,10,0.0909,0,11,https://liquipedia.net/mobilelegends/M5_World_Championship
+Khaleed,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/M5_World_Championship
+Uranus,10,5,5,0.5,7,17,https://liquipedia.net/mobilelegends/M5_World_Championship
+Gord,10,7,3,0.7,6,16,https://liquipedia.net/mobilelegends/M5_World_Championship
+Geek Fam ID,10,4,6,0.4,0,10,https://liquipedia.net/mobilelegends/M5_World_Championship
+Diggie,9,5,4,0.5556,7,16,https://liquipedia.net/mobilelegends/M5_World_Championship
+Novaria,9,6,3,0.6667000000000001,0,9,https://liquipedia.net/mobilelegends/M5_World_Championship
+Deus Vult,9,4,5,0.44439999999999996,0,9,https://liquipedia.net/mobilelegends/M5_World_Championship
+Team SMG,9,8,1,0.8889,0,9,https://liquipedia.net/mobilelegends/M5_World_Championship
+Rafaela,8,7,1,0.875,3,11,https://liquipedia.net/mobilelegends/M5_World_Championship
+Benedetta,8,6,2,0.75,3,11,https://liquipedia.net/mobilelegends/M5_World_Championship
+Team Lilgun,8,5,3,0.625,0,8,https://liquipedia.net/mobilelegends/M5_World_Championship
+Fanny,8,3,5,0.375,5,13,https://liquipedia.net/mobilelegends/M5_World_Championship
+Blacklist International,8,6,2,0.75,0,8,https://liquipedia.net/mobilelegends/M5_World_Championship
+X.Borg,8,3,5,0.375,1,9,https://liquipedia.net/mobilelegends/M5_World_Championship
+Franco,7,2,5,0.2857,4,11,https://liquipedia.net/mobilelegends/M5_World_Championship
+Thamuz,7,3,4,0.4286,2,9,https://liquipedia.net/mobilelegends/M5_World_Championship
+Fire Flux Esports,7,5,2,0.7143,0,7,https://liquipedia.net/mobilelegends/M5_World_Championship
+Gloo,6,5,1,0.8332999999999999,2,8,https://liquipedia.net/mobilelegends/M5_World_Championship
+AP.Bren,6,6,0,1.0,0,6,https://liquipedia.net/mobilelegends/M5_World_Championship
+Estes,5,4,1,0.8,2,7,https://liquipedia.net/mobilelegends/M5_World_Championship
+Floryn,5,0,5,0.0,1,6,https://liquipedia.net/mobilelegends/M5_World_Championship
+Imperio,5,3,2,0.6,0,5,https://liquipedia.net/mobilelegends/M5_World_Championship
+Beatrix,5,5,0,1.0,0,5,https://liquipedia.net/mobilelegends/M5_World_Championship
+RRQ Akira,5,1,4,0.2,0,5,https://liquipedia.net/mobilelegends/M5_World_Championship
+Leomord,4,2,2,0.5,1,5,https://liquipedia.net/mobilelegends/M5_World_Championship
+Harith,4,4,0,1.0,1,5,https://liquipedia.net/mobilelegends/M5_World_Championship
+Clint,4,1,3,0.25,2,6,https://liquipedia.net/mobilelegends/M5_World_Championship
+Yve,3,2,1,0.6667000000000001,2,5,https://liquipedia.net/mobilelegends/M5_World_Championship
+KeepBest Gaming,3,0,3,0.0,0,3,https://liquipedia.net/mobilelegends/M5_World_Championship
+Umbrella Squad,3,0,3,0.0,0,3,https://liquipedia.net/mobilelegends/M5_World_Championship
+Niightmare Esports,3,2,1,0.6667000000000001,0,3,https://liquipedia.net/mobilelegends/M5_World_Championship
+Hayabusa,3,0,3,0.0,2,5,https://liquipedia.net/mobilelegends/M5_World_Championship
+Helcurt,3,1,2,0.3333,2,5,https://liquipedia.net/mobilelegends/M5_World_Championship
+Gusion,3,3,0,1.0,1,4,https://liquipedia.net/mobilelegends/M5_World_Championship
+Esmeralda,2,0,2,0.0,1,3,https://liquipedia.net/mobilelegends/M5_World_Championship
+Roger,2,1,1,0.5,2,4,https://liquipedia.net/mobilelegends/M5_World_Championship
+Odette,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/M5_World_Championship
+Lunox,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/M5_World_Championship
+Irithel,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/M5_World_Championship
+TheOhioBrothers,2,2,0,1.0,0,2,https://liquipedia.net/mobilelegends/M5_World_Championship
+Team Falcons,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/M5_World_Championship
+4Merical Esports,2,0,2,0.0,0,2,https://liquipedia.net/mobilelegends/M5_World_Championship
+Alpha,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/M5_World_Championship
+Luo Yi,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/M5_World_Championship
+Masha,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/M5_World_Championship
+Ling,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/M5_World_Championship
+Yi Sun-shin,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/M5_World_Championship
+Aamon,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/M5_World_Championship
+Triple Esports,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/M5_World_Championship
+Bigetron Zeta,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/M5_World_Championship
+Pharsa,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/M5_World_Championship
+Gatotkaca,39,19,20,0.48719999999999997,19,58,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Grock,15,6,9,0.4,0,15,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Granger,11,3,8,0.2727,0,11,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Lapu-Lapu,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Lancelot,10,7,3,0.7,0,10,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Lunox,9,5,4,0.5556,0,9,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Yu Zhong,9,5,4,0.5556,7,16,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Fredrinn,8,4,4,0.5,0,8,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Hayabusa,8,3,5,0.375,0,8,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Esmeralda,8,4,4,0.5,0,8,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Angela,7,4,3,0.5714,6,13,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Yi Sun-shin,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Baxia,7,3,4,0.4286,0,7,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Yve,7,6,1,0.8571,0,7,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Karrie,6,4,2,0.6667000000000001,3,9,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Kimmy,6,4,2,0.6667000000000001,0,6,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Kalea,6,3,3,0.5,3,9,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Joy,6,3,3,0.5,3,9,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Uranus,5,1,4,0.2,4,9,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Zhuxin,5,2,3,0.4,0,5,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Hilda,5,3,2,0.6,3,8,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Irithel,5,3,2,0.6,0,5,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Arlott,5,5,0,1.0,0,5,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Ruby,5,4,1,0.8,0,5,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+X.Borg,5,3,2,0.6,0,5,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Moskov,5,3,2,0.6,3,8,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Harith,4,4,0,1.0,0,4,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Guinevere,4,3,1,0.75,1,5,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Cici,4,2,2,0.5,0,4,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Kagura,4,1,3,0.25,2,6,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Suyou,4,3,1,0.75,0,4,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Pharsa,4,4,0,1.0,0,4,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Selena,3,3,0,1.0,0,3,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Kaja,3,1,2,0.3333,1,4,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Khaleed,3,1,2,0.3333,1,4,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Minotaur,3,1,2,0.3333,2,5,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Phoveus,3,3,0,1.0,0,3,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Beatrix,3,2,1,0.6667000000000001,0,3,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Cecilion,3,3,0,1.0,0,3,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Hylos,3,3,0,1.0,0,3,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Gloo,3,3,0,1.0,0,3,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Zetian,2,2,0,1.0,0,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Obsidia,2,0,2,0.0,2,4,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Mathilda,2,0,2,0.0,0,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Thamuz,2,1,1,0.5,2,4,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Terizla,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Badang,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Chou,2,2,0,1.0,2,4,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Roger,2,0,2,0.0,0,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Carmilla,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Alice,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Alpha,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Fanny,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Lylia,2,2,0,1.0,0,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Vexana,2,0,2,0.0,1,3,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Minsitthar,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Novaria,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Lolita,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Belerick,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Martis,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Sun,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Odette,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Nolan,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Kadita,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Benedetta,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Chip,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Melissa,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Julian,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Franco,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Wanwan,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Jawhead,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Clint,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Valir,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Akai,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Claude,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Bruno,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Floryn,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Luo Yi,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Valentina,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/IESF/World_Esports_Championships/2025/Women
+Granger,38,19,19,0.5,22,60,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Hayabusa,18,10,8,0.5556,6,24,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Moskov,17,11,6,0.6470999999999999,7,24,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Uranus,13,6,7,0.46149999999999997,5,18,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Kimmy,12,6,6,0.5,0,12,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Selena,11,6,5,0.5455,4,15,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Bruno,11,4,7,0.3636,0,11,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Zhuxin,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Yu Zhong,11,5,6,0.4545,8,19,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Angela,10,4,6,0.4,5,15,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Joy,9,5,4,0.5556,0,9,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Arlott,9,2,7,0.22219999999999998,0,9,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Kalea,9,5,4,0.5556,0,9,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Gloo,9,4,5,0.44439999999999996,4,13,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Lapu-Lapu,8,5,3,0.625,0,8,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Pharsa,8,5,3,0.625,0,8,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Yve,8,5,3,0.625,0,8,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Grock,8,6,2,0.75,0,8,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+DreamMax e-Sports,8,4,4,0.5,0,8,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Fredrinn,8,5,3,0.625,0,8,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Alpha7 Esports,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+INFLUENCE RAGE,7,5,2,0.7143,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Lancelot,7,5,2,0.7143,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Esmeralda,7,3,4,0.4286,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Gatotkaca,7,3,4,0.4286,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Ruby,7,2,5,0.2857,4,11,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Terizla,7,1,6,0.1429,3,10,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Akai,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Wanwan,7,3,4,0.4286,4,11,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Valentina,7,6,1,0.8571,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Hylos,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Cici,7,3,4,0.4286,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Baxia,7,3,4,0.4286,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Alice,7,5,2,0.7143,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Harith,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Khaleed,7,3,4,0.4286,0,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Lunox,6,3,3,0.5,0,6,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Phoveus,6,2,4,0.3333,0,6,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Yi Sun-shin,6,4,2,0.6667000000000001,0,6,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Zetian,5,4,1,0.8,0,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Mathilda,5,2,3,0.4,0,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Bane,5,5,0,1.0,1,6,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Fanny,5,1,4,0.2,2,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Black Sentence Esports,5,4,1,0.8,0,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Karrie,5,4,1,0.8,0,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Claude,5,3,2,0.6,0,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+ULF Esports,5,1,4,0.2,0,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Hilda,5,2,3,0.4,0,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Badang,5,1,4,0.2,3,8,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Kagura,4,2,2,0.5,1,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Natan,4,2,2,0.5,1,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Franco,4,0,4,0.0,3,7,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Guinevere,4,2,2,0.5,2,6,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Kadita,4,3,1,0.75,1,5,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+9z Team,4,3,1,0.75,0,4,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Novaria,3,2,1,0.6667000000000001,1,4,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Infinity,3,1,2,0.3333,0,3,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+X.Borg,3,2,1,0.6667000000000001,0,3,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Entity7,3,1,2,0.3333,0,3,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Chou,3,1,2,0.3333,0,3,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Vexana,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Irithel,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Chip,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Thamuz,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Beatrix,2,2,0,1.0,0,2,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Obsidia,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Minotaur,2,1,1,0.5,0,2,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Brody,2,1,1,0.5,1,3,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Alpha,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Tigreal,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Suyou,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Helcurt,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Kaja,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Ling,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Odette,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Paquito,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Benedetta,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Ixia,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Carmilla,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Balmond,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Faramis,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Lukas,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Diggie,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Belerick,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Atlas,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Barats,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Clint,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Khufra,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Cecilion,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Luo Yi,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Miya,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/LATAM/Season_4
+Fredrinn,52,27,25,0.5192,26,78,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Wanwan,21,10,11,0.47619999999999996,10,31,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Valentina,17,13,4,0.7646999999999999,0,17,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Paquito,17,10,7,0.5882000000000001,0,17,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Martis,16,6,10,0.375,5,21,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Brody,15,10,5,0.6667000000000001,5,20,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Yve,14,6,8,0.4286,0,14,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Floryn,14,5,9,0.35710000000000003,8,22,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Lolita,14,6,8,0.4286,8,22,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Baxia,14,8,6,0.5714,0,14,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Beatrix,14,6,8,0.4286,0,14,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Hayabusa,13,9,4,0.6923,5,18,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Esmeralda,12,4,8,0.3333,5,17,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Lapu-Lapu,12,5,7,0.4167,6,18,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Lancelot,12,5,7,0.4167,0,12,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Karrie,12,6,6,0.5,0,12,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Khufra,12,8,4,0.6667000000000001,0,12,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Pharsa,11,5,6,0.4545,0,11,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Lesley,11,7,4,0.6364,5,16,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Uranus,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Ling,11,3,8,0.2727,7,18,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Claude,11,7,4,0.6364,0,11,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Grock,11,6,5,0.5455,0,11,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Ruby,10,4,6,0.4,4,14,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Melissa,10,3,7,0.3,6,16,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Terizla,10,6,4,0.6,0,10,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Randoms Esports,9,3,6,0.3333,0,9,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Bigetron Zeta,9,5,4,0.5556,0,9,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Kagura,8,6,2,0.75,4,12,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Kaja,8,6,2,0.75,0,8,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Chou,8,3,5,0.375,0,8,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Team Zeus E-sports,8,6,2,0.75,0,8,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Estes,7,3,4,0.4286,0,7,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+DreamMax e-Sports,7,5,2,0.7143,0,7,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+RRQ Akira,7,6,1,0.8571,0,7,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Malvinas Brazil,7,4,3,0.5714,0,7,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Franco,6,3,3,0.5,1,7,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Barats,6,4,2,0.6667000000000001,4,10,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Angela,6,2,4,0.3333,5,11,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Lunox,6,1,5,0.16670000000000001,2,8,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Minotaur,6,3,3,0.5,0,6,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Xavier,6,1,5,0.16670000000000001,4,10,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Kadita,6,3,3,0.5,0,6,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Gloo,6,2,4,0.3333,3,9,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+INFLUENCE RAGE,6,0,6,0.0,0,6,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+X.Borg,6,2,4,0.3333,5,11,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Fanny,5,3,2,0.6,3,8,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Harith,5,3,2,0.6,1,6,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Bane,5,4,1,0.8,0,5,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Faramis,5,4,1,0.8,0,5,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Cyber Hunters,5,2,3,0.4,0,5,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Yu Zhong,4,2,2,0.5,2,6,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Irithel,4,3,1,0.75,0,4,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Arlott,4,2,2,0.5,0,4,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Edith,4,4,0,1.0,0,4,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Joy,3,2,1,0.6667000000000001,0,3,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Hylos,3,2,1,0.6667000000000001,0,3,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Atlas,3,3,0,1.0,2,5,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Lylia,3,3,0,1.0,0,3,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Helcurt,3,1,2,0.3333,3,6,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Valir,3,1,2,0.3333,2,5,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Alpha,2,2,0,1.0,0,2,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Novaria,2,1,1,0.5,2,4,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Diggie,2,0,2,0.0,2,4,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Gord,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Vale,1,0,1,0.0,1,2,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Moskov,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Hanabi,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Guinevere,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Bruno,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Clint,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Balmond,1,0,1,0.0,0,1,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Hanzo,1,1,0,1.0,1,2,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Akai,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Badang,1,1,0,1.0,0,1,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Dyrroth,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Hilda,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
+Phoveus,0,0,0,0.0,0,0,https://liquipedia.net/mobilelegends/MPL/Brazil/Season_5
