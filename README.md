@@ -22,16 +22,11 @@ Then just answer the prompts:
 - enemy heroes
 - banned heroes
 
-## data
+## Data
 
-the model uses:
+The model uses:
 - [kaggle mlbb match results](https://www.kaggle.com/datasets/rizqinur/mobile-legends-match-results) - 10k ranked matches
 - liquipedia pro play statistics (collected from liquidpedia)
-
-to scrape more pro data:
-```bash
-python liquipedia_scraper.py
-```
 
 After adding new data, delete `mlbb_model.pkl` and run again to retrain.
 
