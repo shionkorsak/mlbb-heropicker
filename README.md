@@ -26,7 +26,7 @@ Then just answer the prompts:
 
 the model uses:
 - [kaggle mlbb match results](https://www.kaggle.com/datasets/rizqinur/mobile-legends-match-results) - 10k ranked matches
-- liquipedia pro play statistics (...scraped with `liquipedia_scraper.py`)
+- liquipedia pro play statistics (collected from liquidpedia)
 
 to scrape more pro data:
 ```bash
